@@ -1,16 +1,27 @@
 ## Mood
 
+[Mood Banner](https://github.com/MoodIndustries/moodindustries.github.io/raw/master/imgs/mood-banner.png)
+
+
 Mood was a music streaming app for discovering new music based on your mood. Created by @samrond, @whoislewys, and @wbmcode [his specialty is UI/UX, he did a lil HTML/CSS :)], we learned deeply about business fundamentals, full-stack development, machine learning, UI/UX design, marketing, analytics, and many other valuable skills.
 
 We are grateful for the teamwork, support, and dedication of the various communities of underground musicians we grew and integrated with. We had some of the most memorable & valuable experiences of our young lives thanks to this venture. We deeply appreciate those who gave us chances along the way, and we look forward to finding ways to provide value to you and others moving forward.
 
-Below is our listing on the App Store.
+Below is our listing on the App Store w/ screenshots.
 
-Thank you, thank you, thank you.
+Ty, ggs
 
 ___
 
 ## Mood: Discover new music from underground artists
+
+[Music](https://github.com/MoodIndustries/moodindustries.github.io/raw/master/imgs/1-music.png)
+
+[Support Artists](https://github.com/MoodIndustries/moodindustries.github.io/raw/master/imgs/2-support.png)
+
+[Listen](https://github.com/MoodIndustries/moodindustries.github.io/raw/master/imgs/3-listen.png)
+
+[Play](https://github.com/MoodIndustries/moodindustries.github.io/raw/master/imgs/4-play.png)
 
 The new way to discover new music. | Empowering artists globally.
 
